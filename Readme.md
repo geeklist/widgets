@@ -14,3 +14,7 @@ Parameters
 
 * page
 * per_page  
+
+Simple Example Using jQuery and a YQL AJAX Call
+
+	http://jsfiddle.net/suggsgested/2cQHf/
