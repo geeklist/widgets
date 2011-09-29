@@ -16,6 +16,14 @@ Follow these steps:
 
 - Create a folder for your widget in the directory user-widgets
 
-TODO:
+<img src="http://desmond.yfrog.com/Himg619/scaled.php?tn=0&server=619&filename=wazq.png&xsize=640&ysize=640" />
 
+- Once you've done with your widget, push the repo back into github, and issue a *pull request*
 
+## Public APIs Documentation
+
+In this directory, you fill find information to use the Geeklist APIs
+
+## What if I have this idea and...?
+
+Let us know if you have any idea, the crazier, the better, Use the [issues tab](https://github.com/geeklist/widgets/issues).
