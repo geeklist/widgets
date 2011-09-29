@@ -12,11 +12,11 @@
 
 - Add the following code where you want to show your geeklist card stats:
 
-        &lt;div id="results"&gt;
-            &lt;span id="geekName"&gt;</span&gt;
-            &lt;span id="geekViews"&gt;</span&gt;
-            &lt;span id="geekHighfives"&gt;</span&gt;
-        &lt;/div>gt;
+        <div id="results">;
+            <span id="geekName"></span>
+            <span id="geekViews"></span>
+            <span id="geekHighfives"></span>
+        </div>
 
 ### Proof Of Concept
 
