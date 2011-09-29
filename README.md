@@ -22,7 +22,7 @@ Follow these steps:
 
 ## Public APIs Documentation
 
-In this directory, you fill find information to use the Geeklist APIs
+In [this directory](https://github.com/geeklist/widgets/tree/master/public-api), you fill find information to use the Geeklist APIs
 
 ## What if I have this idea and...?
 
