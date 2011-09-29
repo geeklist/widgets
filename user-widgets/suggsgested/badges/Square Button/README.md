@@ -4,20 +4,19 @@
 
 ### Use
 
-- Include the file suggsgested.js in your website.
- 
-- Edit the variable geeklistURL to the username which cards you want to show:
-
-    var geeklistURL = "http://geekli.st/csanz/cards.json?page=0&per_page=3000";
+- Include the file GeekList-badges-SB.js in your website.
 
 - Add the following code where you want to show your geeklist card stats:
 
-        <div id="results">;
-            <span id="geekName"></span>
-            <span id="geekViews"></span>
-            <span id="geekHighfives"></span>
-        </div>
+        <div id="results"></div>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#results').geeklistbadge({username: 'suggsgested'});
+			});
+		</script>
 
+- Edit the variable 'username' to the Geeklist username which cards you want to show:		
+		
 ### Proof Of Concept
 
 [In This link](http://jsfiddle.net/suggsgested/2cQHf/)
