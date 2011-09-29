@@ -10,13 +10,13 @@ Follow these steps:
 
 - Fork this repository:
 
-<img src="http://a.yfrog.com/img644/2878/aeqp.png" />
+  <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
 
 - Clone the forked version of your repo into your local machine
 
 - Create a folder for your widget in the directory user-widgets
 
-<img src="http://desmond.yfrog.com/Himg619/scaled.php?tn=0&server=619&filename=wazq.png&xsize=640&ysize=640" />
+  <img src="http://desmond.yfrog.com/Himg619/scaled.php?tn=0&server=619&filename=wazq.png&xsize=640&ysize=640" />
 
 - Once you've done with your widget, push the repo back into github, and issue a *pull request*
 
