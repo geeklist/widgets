@@ -4,7 +4,7 @@
 
 ### Badges Use
 
-  <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
+  <img src="https://github.com/Suggsgested/widgets/raw/master/user-widgets/suggsgested/badges-screenshot.png" />
 
 - Include the file GeekList-badges-SB.js in your website.
 
@@ -26,7 +26,7 @@
 
 ### Google Chrome Extension (Beta)
 
-  <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
+  <img src="https://github.com/Suggsgested/widgets/raw/master/user-widgets/suggsgested/chromeEX-screenshot.png" />
 
 - To install from GitHub download and extract all files located in this repo
 
