@@ -22,7 +22,7 @@
 [In This link](http://jsfiddle.net/suggsgested/2cQHf/)
 
 
-*** Google Chrome Extension (Beta)
+### Google Chrome Extension (Beta)
 
 - To install from GitHub download and extract all files located in this repo
 
