@@ -1,0 +1,20 @@
+{
+    "name": "Geekli.st Plus",
+    "version": "1.0",
+    "description": "This chome extension will create additional functionality for the Geekli.st home page",
+    "page_action": {
+        "default_icon": "Geeklist-plus.png",
+        "default_title": "Geekli.st Plus"
+    },
+    "permissions": [
+        "tabs",
+        "http://geekli.st/*"
+    ],
+	"background_page": "background.html",
+	"content_scripts": [
+		{
+		  "matches": ["http://geekli.st/*"],
+		  "js": ["jquery.js"]
+		}
+    ]
+}

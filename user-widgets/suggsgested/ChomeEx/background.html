@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Called when the url of a tab changes.
+      function checkForValidUrl(tabId, changeInfo, tab) {
+        // If the page belongs to geekli.st ...
+		if ( tab.status == "complete" ) {
+			  // ... show the page action.
+			  chrome.pageAction.show(tabId);
+			  chrome.tabs.executeScript(null,
+							   {file:"GeekCred/default.js"});
+		}
+      };
+      // Listen for any changes to the URL of any tab.
+      chrome.tabs.onUpdated.addListener(checkForValidUrl);
+    </script>
+  </head>
+</html>  
