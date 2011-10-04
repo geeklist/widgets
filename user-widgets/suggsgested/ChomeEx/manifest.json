@@ -16,5 +16,9 @@
 		  "matches": ["http://geekli.st/*"],
 		  "js": ["jquery.js"]
 		}
-    ]
+    ],
+    "icons":{
+        "48":"Geeklist-plus-48.png"
+    }
+
 }

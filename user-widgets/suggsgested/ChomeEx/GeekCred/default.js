@@ -54,7 +54,7 @@ geekCred = (totalHighfives + totalViews) / numberOfCards	+ ''
 
 showGeekCred(Math.floor(geekCred));
 
-	console.log(geekName + " " + geekType + " (" + totalHighfives + "+" + totalViews + ") /" + numberOfCards);
+	//console.log(geekName + " " + geekType + " (" + totalHighfives + "+" + totalViews + ") /" + numberOfCards);
 				
 });				
 				
