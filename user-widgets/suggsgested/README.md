@@ -25,8 +25,11 @@
 
 
 ### Google Chrome Extension (Beta)
+<<<<<<< HEAD
 
   <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
+=======
+>>>>>>> origin/master
 
 - To install from GitHub download and extract all files located in this repo
 
