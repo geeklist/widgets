@@ -4,6 +4,8 @@
 
 ### Badges Use
 
+  <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
+
 - Include the file GeekList-badges-SB.js in your website.
 
 - Add the following code where you want to show your geeklist card stats:
@@ -22,7 +24,9 @@
 [In This link](http://jsfiddle.net/suggsgested/2cQHf/)
 
 
-*** Google Chrome Extension (Beta)
+### Google Chrome Extension (Beta)
+
+  <img src="http://a.yfrog.com/img644/2878/aeqp.png" />
 
 - To install from GitHub download and extract all files located in this repo
 
