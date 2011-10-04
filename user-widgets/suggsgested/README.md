@@ -19,9 +19,7 @@
 
 - Edit the variable 'username' to the Geeklist username which cards you want to show:		
 		
-### Proof Of Concept
-
-[In This link](http://jsfiddle.net/suggsgested/2cQHf/)
+[Proof Of Concept](http://jsfiddle.net/suggsgested/2cQHf/)
 
 
 ### Google Chrome Extension (Beta)
@@ -38,3 +36,6 @@
 
 - In the file dialog, navigate to the extension's folder (/user-widgets/suggsgested/ChomeEx) and click OK.
 
+Currently this Chrome extension will utilize the Geekli.st JSON API to generate and display a "Geek Cred" number overlayed on the activily selected Geek from the Discovery Feed.
+
+The "Geek Cred" number is calculated as (Total Highfives + Total Views) / Number of Cards
