@@ -6,10 +6,17 @@
       function checkForValidUrl(tabId, changeInfo, tab) {
         // If the page belongs to geekli.st ...
 		if ( tab.status == "complete" ) {
+			chrome.pageAction.show(tabId);
+			if (tab.url.indexOf('geekli.st') > -1) {
 			  // ... show the page action.
 			  chrome.pageAction.show(tabId);
 			  chrome.tabs.executeScript(null,
 							   {file:"GeekCred/default.js"});
+			// alert("geekli.st found");
+			} else {
+			chrome.pageAction.hide(tabId);
+			// alert("geekli.st NOT found");
+			}
 		}
       };
       // Listen for any changes to the URL of any tab.
