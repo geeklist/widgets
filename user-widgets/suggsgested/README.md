@@ -40,6 +40,8 @@
   <img src="https://github.com/Suggsgested/widgets/raw/master/user-widgets/suggsgested/chromeEX-screenshot-2.png" />
 
 
-Currently this Chrome extension will utilize the Geekli.st JSON API to generate and display a "Geek Cred" number overlayed on the activily selected Geek from the Discovery Feed.
+- This Chrome extension will utilize the Geekli.st JSON API to generate and display a "Geek Cred" number overlayed on the activily selected Geek from the Discovery Feed. The "Geek Cred" number is calculated as (Total Highfives + Total Views) / Number of Cards
 
-The "Geek Cred" number is calculated as (Total Highfives + Total Views) / Number of Cards
+  <img src="https://github.com/Suggsgested/widgets/raw/master/user-widgets/suggsgested/chromeEX-screenshot-3.png" />
+
+- This Chrome extension will also add filtering buttons to the Geekli.st Discovery Feed
