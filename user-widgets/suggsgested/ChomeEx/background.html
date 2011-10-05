@@ -12,6 +12,8 @@
 			  chrome.pageAction.show(tabId);
 			  chrome.tabs.executeScript(null,
 							   {file:"GeekCred/default.js"});
+			  chrome.tabs.executeScript(null,
+							   {file:"FeedFilter/default.js"});							   
 			// alert("geekli.st found");
 			} else {
 			chrome.pageAction.hide(tabId);
